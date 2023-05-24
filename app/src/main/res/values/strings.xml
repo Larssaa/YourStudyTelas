@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">telas</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Não tem conta? Crie agora.</string>
+
+</resources>
